@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1666766352 source:c:\users\manu\desktop\utn programacion\laboratorio 1\juego parial 2\juegos\card jitsu\funciones.cpp
+
+1666791326 source:c:\users\manu\desktop\utn programacion\laboratorio 1\juego parial 2\juegos\card jitsu\main.cpp
+	<iostream>
+	"HeaderFunciones.h"
+	"rlutil.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1666750987 c:\users\manu\desktop\utn programacion\laboratorio 1\juego parial 2\juegos\card jitsu\headerfunciones.h
+
+1571584339 c:\users\manu\desktop\utn programacion\laboratorio 1\juego parial 2\juegos\card jitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
